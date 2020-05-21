@@ -61,7 +61,7 @@ export const script = [
 
   {
     id: "OPTIONS/jokeanswer",
-    options: [{ label: "Whos There?", trigger: "BOT/dr" }]
+    options: [{ label: "Who's There?", trigger: "BOT/dr" }]
   },
 
   {
